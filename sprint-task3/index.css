@@ -1,0 +1,17 @@
+h5{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.block{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    border: 0.5px solid gray;
+    border-radius: 10px;
+}
